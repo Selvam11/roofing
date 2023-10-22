@@ -1,0 +1,67 @@
+.why{
+    margin: 50px 0px;
+}
+.why .why-info{
+
+}
+.why .why-info h1{
+    color: #102039;
+    font-size: 50px;
+    font-weight: 800;
+    padding: 10px;
+}
+.why .why-info p {
+    color: #898686;
+    font-size: 19px;
+    line-height: 27px;
+}
+.why .main-why{
+    margin: 50px 0px;
+  }
+.why .main-why .small-cont{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr ;
+    gap: 1rem;
+}
+
+.why .main-why .small-cont .col{
+    
+}
+.why .main-why .small-cont .col i{
+    font-size: 50px;
+    padding: 22px 0px;
+    color: #EA1826;
+}
+.why .main-why .small-cont .col h2{
+    font-size: 26px;
+    font-weight: 600;
+    color: #102039;
+}
+.why .main-why .small-cont .col p{
+    color: #898686;
+    font-size: 19px;
+    line-height: 27px;
+}
+
+.why .main-why .small-cont .img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.why .main-why .small-cont .img img{
+    max-height: 410px;
+    max-width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

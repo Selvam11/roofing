@@ -1,0 +1,71 @@
+.explore{
+    margin: 50px 0px;
+}
+.explore .explore-info {
+
+}
+.explore .explore-info h1{
+    color: #102039;
+    font-size: 50px;
+    font-weight: 800;
+    padding: 10px;
+}
+.explore .explore-info p{
+color: #898686;
+    font-size: 19px;
+    line-height: 27px;
+}
+.explore .explore-info .my-button {
+    margin: 42px 0px;
+}
+.explore .explore-info .my-button  button{
+ 
+    padding: 10px;
+    font-size: 18px;
+    margin: 0px 4px;
+    /* border: none; */
+    border-radius: 2px;
+}
+
+.explore .explore-info .my-button  button:hover{
+    background-color: #EA1826;
+    color: #102039;
+    
+}
+
+.explore-main .row{
+   
+row-gap: 10px;
+
+}
+.explore-main .container{
+    padding: 20px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

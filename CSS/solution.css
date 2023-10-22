@@ -1,0 +1,54 @@
+.solution{
+    background: #102039;
+    color: #fff;
+}
+.solution .main-solution{
+    
+}
+.solution .main-solution .solution-info{
+    padding: 50px;
+}
+.solution .main-solution .solution-info h4 {
+    font-size: 30px;
+    font-weight: 500;
+    color: #EA1826!important;
+}
+.solution .main-solution .solution-info h1{
+    font-size: 44px;
+    font-weight: 600;
+    padding: 14px 0px;
+}
+.main-solution .solution-info .solution-icon {
+    padding: 32px 0px;
+}
+.main-solution .solution-info .solution-icon .icon{
+    height: 75px;
+    width: 75px;
+
+}
+.main-solution .solution-info .solution-icon .icon  i{
+    font-size: 35px;
+    height: 75px;
+    width: 75px;
+    background: #fff;
+    padding: 20px 0px 0px 19px;
+    border-radius: 40px;
+    color: #EA1826!important;
+}
+.main-solution .solution-info .solution-icon  .solu-icon-info{
+    padding: 0px 34px;
+}
+.main-solution .solution-info .solution-icon h6 {
+    font-size: 28px;
+    font-weight: 600;
+}
+.main-solution .solution-info .solution-icon  p{
+font-size: 21px;
+    font-weight: 500;
+}
+
+.solution .main-solution   .sol-img{
+    margin: 70px 0px;
+height: 100%;
+width: 90%;
+  }

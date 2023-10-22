@@ -1,0 +1,70 @@
+.experts{
+    margin: 50px 0px;
+}
+.experts .experts-info {
+
+}
+.experts .experts-info h1{
+    color: #102039;
+    font-size: 50px;
+    font-weight: 800;
+    padding: 10px;
+}
+.experts .experts-info  p{
+    color: #898686;
+    font-size: 19px;
+    line-height: 27px;
+}
+.experts .row{
+    row-gap: 20px;
+    margin: 85px 0px;
+}
+
+.experts .row img{
+    width: 90%!important;
+}
+.expert-img .expert-side{
+    height: 100%;
+    width: 9%;
+    background: #EA1826;
+    color: #fff;
+    text-align: center;
+    display: none;
+
+}
+.expert-img .expert-side li { 
+    font-size: 21px;
+    padding: 7px 0px;
+    cursor: pointer;
+}
+.expert-img .expert-side li:hover{
+    color: #6895dd;
+}
+.expert-img .expert-side li i{
+
+ }
+.expert-img:hover{
+  .expert-side{
+        display: block;
+    }
+}
+
+.experts .col-sm-4 h3{
+    padding: 21px 0px 0px 0px;
+    font-size: 29px;
+    font-weight: 600;
+    color: #102039;
+}
+.experts .col-sm-4 h5{
+    font-size: 21px;
+    font-weight: 600;
+    color: #898686;
+}
+
+
+
+
+
+
+
+

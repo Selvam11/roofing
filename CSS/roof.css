@@ -1,0 +1,156 @@
+.roof-install{
+    background-color:  #102039;
+    
+}
+.roof{
+    padding: 70px 0px;
+}
+.roof-install .col-lg-6{
+   /* color: #fff; */
+    
+}
+.roof-install .col-lg-6 h1{
+    font-weight: 600;
+    font-size: 3rem;
+    font-family: Lora;
+      color: #fff;
+}
+.roof-install .col-lg-6 p{
+    font-size: 20px;
+    font-weight: 600;
+      color: #fff;
+}
+.roof-install .myover{
+    gap: 15px;
+overflow-x: scroll;
+overflow-y: hidden;
+}
+.roof-install .myover .col-content{
+    background-color: #EA1826!important;
+    height: 150px;
+    padding: 30px;
+}
+.roof-install .myover .col-content  i{
+    color: #fff!important;
+    
+}
+.roof-install .myover .col-content  p{
+    color: #fff!important;
+}
+
+
+.roof-install .myover .content{
+    background-color: #fff;
+    height: 150px;
+    padding: 30px;
+    border-radius: 3px;
+}
+.roof-install .myover .content  i{
+    color: #EA1826;
+    font-size: 39px;
+}
+.roof-install .myover .content  p{
+    color: #102039;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 800;
+}
+.roof-install .myover .content:hover{
+    background-color:#ccadaf;
+    color: #fff!important;
+    cursor: pointer;
+
+}
+
+.roof-main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.roof-main .row {
+background-color: #fff;
+border-radius: 3px;
+/* color: #102039!important; */
+}
+.roof-main .col-lg-6{
+    padding: 70px;
+}
+.roof-main .col-lg-6 h2{
+    font-size: 44px;
+    color: #102039;
+    font-weight: 700;
+}
+.roof-main .col-lg-6 span{
+    color: #898686;
+    font-size: 19px;
+    line-height: 27px;
+
+}
+.roof-main .col-lg-6 h3{
+    font-size: 23px;
+    font-weight: 600;
+    padding: 22px 0px;
+    color: #EA1826;
+}
+.roof-main .col-lg-6 .icon-list{
+
+}
+.roof-main .col-lg-6 .icon-list li{
+    padding: 4px;
+}
+.roof-main .col-lg-6 .icon-list li  i{
+    color: #EA1826;
+    padding: 0px 5px;
+}
+.roof-main .col-lg-6 .icon-list li span{
+    color: #102039!important;
+}
+.roof-main .col-lg-6 button{
+    height: 63px;
+    width: 179px;
+    padding: 16px;
+    font-size: 21px;
+    background-color: #EA1826;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+}
+.roof-main .col-lg-6 button i{
+    padding: 6px 10px;
+    font-size: 20px;
+}
+.roof-main .col-lg-6 button{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

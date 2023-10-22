@@ -1,0 +1,239 @@
+@media (min-width:320px) and (max-width:480px) {
+    .why .main-why .small-cont{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        /* gap: 1rem; */
+    }
+
+    .locat-details .change {
+        display: none;
+    }
+    .awards .col-lg-6 .award-info .awards-imgs img {
+        padding: 5px;
+        max-width: 115px;
+    }
+    .why .main-why .small-cont .col p {
+        max-width: 64%;
+    }
+    .why .main-why .small-cont .img img {
+     
+        max-width: 300px;
+    }
+    .copyright .subscribe .col-lg-7 h2 {
+        text-align: center;
+    }
+    .copyright .subscribe .col-lg-3 input {
+        text-align: center;
+        padding: 10px;
+    }
+    .copyright .subscribe .col-lg-2  {
+        text-align: center;
+        padding: 10px;
+    }
+    .last-copy .col-lg-3 span {
+        display: block;
+    }
+    .last-copy .col-lg-3 ul {
+        text-align: center;
+    }
+    .last-copy .last-items {
+     
+        text-align: center;
+    }
+    .copyright .My-last-copy {
+        padding: 30px;
+    }
+    .about .col-lg-6 .count div h2 {
+        font-size: 2.3rem;
+    }
+    .about .col-lg-6 h1 {
+        margin: 29px 0px 0px 0px;
+        text-align: center;
+    }
+    .roof-install .col-lg-6 h1 {
+        text-align: center;
+        
+    }
+    .explore .explore-info .my-button button {
+        margin: 5px 4px;
+    }
+    .about .col-lg-6 img {
+        width: 100%;
+    }
+    .about .col-lg-6 .count {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .explore-main .col-md-4 .cont img{
+        padding: 0px 34px;
+    
+    }
+
+}
+
+
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+
+
+
+@media (min-width:481px) and (max-width:650px) {
+    .why .main-why .small-cont{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        /* gap: 1rem; */
+    }
+    .awards .col-lg-6 .award-info .awards-imgs img {
+        padding: 5px;
+        max-width: 115px;
+    }
+    .why .main-why .small-cont .col p {
+        max-width: 64%;
+    }
+    .locat-details .change {
+        display: none;
+    }
+    .why .main-why .small-cont .img img {
+     
+        max-width: 300px;
+    }
+    .copyright .subscribe .col-lg-7 h2 {
+        text-align: center;
+    }
+    .copyright .subscribe .col-lg-3 input {
+        text-align: center;
+        padding: 10px;
+    }
+    .copyright .subscribe .col-lg-2  {
+        text-align: center;
+        padding: 10px;
+    }
+    .last-copy .col-lg-3 span {
+        display: block;
+    }
+    .last-copy .col-lg-3 ul {
+        text-align: center;
+    }
+    .last-copy .last-items {
+     
+        text-align: center;
+    }
+    .copyright .My-last-copy {
+        padding: 30px;
+    }
+    .about .col-lg-6 .count div h2 {
+        font-size: 2.3rem;
+    }
+    .about .col-lg-6 h1 {
+        margin: 29px 0px 0px 0px;
+        text-align: center;
+    }
+    .roof-install .col-lg-6 h1 {
+        text-align: center;
+        
+    }
+    .explore .explore-info .my-button button {
+        margin: 5px 4px;
+    }
+    .about .col-lg-6 img {
+        width: 100%;
+    }
+    .about .col-lg-6 .count {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .explore-main .col-md-4 .cont img{
+        padding: 0px 34px;
+    
+    }
+
+}
+
+
+
+/* ============     (min-width:481px) and (max-width:650px)       =========== */
+
+
+@media (min-width:651px) and (max-width:768px) {
+    .why .main-why .small-cont{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        /* gap: 1rem; */
+    }
+    .awards .col-lg-6 .award-info .awards-imgs img {
+        padding: 5px;
+        max-width: 115px;
+    }
+    .locat-details .change {
+        display: none;
+    }
+    .why .main-why .small-cont .col p {
+        max-width: 64%;
+    }
+    .about .col-lg-6 .sign img {
+        max-width: 180px!important;
+    }
+    .why .main-why .small-cont .img img {
+     
+        max-width: 300px;
+    }
+    .copyright .subscribe .col-lg-7 h2 {
+        text-align: center;
+    }
+    .copyright .subscribe .col-lg-3 input {
+        text-align: center;
+        padding: 10px;
+    }
+    .copyright .subscribe .col-lg-2  {
+        text-align: center;
+        padding: 10px;
+    }
+    .last-copy .col-lg-3 span {
+        display: block;
+    }
+    .last-copy .col-lg-3 ul {
+        text-align: center;
+    }
+    .last-copy .last-items {
+     
+        text-align: center;
+    }
+    .copyright .My-last-copy {
+        padding: 30px;
+    }
+    .about .col-lg-6 .count div h2 {
+        font-size: 2.3rem;
+    }
+    .about .col-lg-6 h1 {
+        margin: 29px 0px 0px 0px;
+        text-align: center;
+    }
+    .roof-install .col-lg-6 h1 {
+        text-align: center;
+        
+    }
+    .explore .explore-info .my-button button {
+        margin: 5px 4px;
+    }
+    .about .col-lg-6 img {
+        width: 100%;
+    }
+    .about .col-lg-6 .count {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .explore-main .col-md-4 .cont img{
+        padding: 0px 34px;
+    
+    }
+    .last-copy .col-lg-3 h3 {
+        padding: 63px 0px 14px 0px;
+    }
+
+}

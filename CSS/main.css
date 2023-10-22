@@ -1,0 +1,87 @@
+.back-img {}
+
+.back-color {
+    background: #03122980;
+
+}
+
+.locat-details {
+    /* z-index: 1; */
+    opacity: 2;
+}
+
+.locat-details .col-lg-3 {
+    background-color: #102039;
+    color: #fff;
+    font-size: 20px;
+    height: 110px;
+    padding: 10px 0p 0px 0px;
+}
+
+
+.locat-details .col-lg-3 i {
+    font-size: 20px;
+    color: #f32f3c;
+  
+}
+
+.locat-details .col-lg-3 i:hover {
+    font-size: 30px;
+}
+
+.locat-details .change {
+    background-color: #EA1826 !important;
+}
+
+main .carousel-item img {
+    /* position: relative;
+    bottom: 543px;
+    left: 0px; */
+
+    height: 550px;
+}
+main .carousel-caption h5{
+    font-size: 40px;
+    font-weight: 400;
+}
+main .carousel-caption h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+.commercial-info{
+    position: relative;
+    top: -20px;
+    margin-bottom: 78px;
+}
+main .commercial-info .commercial .col-lg-5{
+    background-color: #102039 ;
+    color: #fff;
+
+}
+
+main .commercial-info .commercial .col-lg-4 :hover{
+    .col-lg-5{
+        background: #EA1826 ;
+    }
+   
+}
+
+main .commercial-info .commercial .col-lg-5 i{
+    padding: 30px;
+    font-size: 36px;
+}
+main .commercial-info .commercial .col-lg-5 h3{
+    font-weight: 600;
+}
+main .commercial-info .commercial .col-lg-7 p{
+    padding: 41px 0px 0px 0px;
+    color: #898686;
+}
+main .commercial-info .commercial .col-lg-7 a{
+    color: #102039;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+
